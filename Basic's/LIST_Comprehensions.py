@@ -114,11 +114,6 @@ from math import pi
 [str(round(pi, i)) for i in range(1, 6)]
 
 
-# In[39]:
-
-
-from math import pi
-[str(round(pi, i)) for i in range(1, 6)]
 
 
 # In[ ]:
