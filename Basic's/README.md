@@ -10,3 +10,9 @@
     Comparisons can be chained. For exampled, [a < b == c] tests whether a is less then b and moreover 
     b equals c.
     
+    Comparisons may be combined using the Boolean operation and & or, and the outcome of a comparison 
+    (or of any other Boolean expression) may be negated with not. There have lower pariorities than
+    comparison operation; between then, not has the highest priority and or the lowest, so the  A ans not B 
+    or C is equivalent to (A and (not B)) or C. As alwayes, parentheses can be used to express the desires
+    composition.
+    
